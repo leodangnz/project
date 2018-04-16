@@ -3,3 +3,8 @@ This is a file created by "loc" in branch "master"
 This is a line was written by "loc" in branch "update"
 
 This is another line that was written by "loc" in branch "master"
+
+function abc()
+{
+  return true;
+}
